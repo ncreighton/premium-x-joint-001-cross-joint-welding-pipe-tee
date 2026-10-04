@@ -1,0 +1,2 @@
+# premium-x-joint-001-cross-joint-welding-pipe-tee
+Tired of inconsistent cross joint welds that fail inspection? The Cross Joint Welding &amp; Pipe Tee Craft Workshop template turns your Notion into a precision welding lab for mastering X-joints and tee connections.  This template eliminates the guesswork from welding complex cross and tee joints by providing a structured system to log parameters, trac
